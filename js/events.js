@@ -8,6 +8,10 @@ function getIt(){
 }
 
 function frameIt(){
+
+}
+
+function pressIt(){
   
 }
 
