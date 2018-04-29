@@ -4,7 +4,9 @@ $(document).ready(function(){
 
 // call functions here
 function getIt(){
-
+  $('p').on('click', function(key){
+    alert("Hey!")
+  })
 }
 
 function frameIt(){
@@ -16,7 +18,7 @@ function pressIt(){
 }
 
 function submitIt(){
-  
+
 }
 
 });
